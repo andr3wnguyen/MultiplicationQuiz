@@ -9,5 +9,5 @@ pip install pyinputplus
 
 through the command prompt (cmd.exe on Windows) 
 
-Once this module is installed, to run, save the script into the path of your python interpreter and run by entering MultiplicationQuiz.py from the command line.
+Once this module is installed, to run, save the script into the path of your python interpreter and run by entering multiplygame.py from the command line.
 
